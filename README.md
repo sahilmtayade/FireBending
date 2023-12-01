@@ -1,5 +1,6 @@
 # FireBending
 FireBending VFX using pure Numpy Classical Computer Vision Algorithms
+@EthanHarp was my teammate in charge of the steam notebook.
 
 Short Unoptimized Combined Demo ->
 https://github.com/sahilmtayade/FireBending/assets/83998676/2cd3f042-8dba-4afd-b123-06564e4dd1e6
