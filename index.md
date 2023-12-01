@@ -9,7 +9,7 @@ FireBending VFX using pure Numpy Classical Computer Vision Algorithms.
 ## Short Unoptimized Combined Demo
 
 You can see in this demo how the code that takes the dot product of velocity and median direction vectors prevents me from blasting my own face at the end, as my speed was high enough to produce flames!
-<video width="1280" height="720" controls>
+<video width="640" height="360" controls>
   <source src="CVSteam_and_fire.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
