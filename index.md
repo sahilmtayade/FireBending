@@ -14,6 +14,7 @@ You can see in this demo how the code that takes the dot product of velocity and
   Your browser does not support the video tag.
 </video>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ErbUVrVOzEQ?si=jn1ur1wAyHK2sBZP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Currently the steam and fire parts are separate notebooks, so you will have to take the steam output and read that in before calling the draw function in the fire notebook. But make sure to run all the other calculation cells in the fire notebook with the original video! Sorry about that; finals and job searches keep me busy.
 
