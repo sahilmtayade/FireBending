@@ -9,12 +9,7 @@ FireBending VFX using pure Numpy Classical Computer Vision Algorithms.
 ## Short Unoptimized Combined Demo
 
 You can see in this demo how the code that takes the dot product of velocity and median direction vectors prevents me from blasting my own face at the end, as my speed was high enough to produce flames!
-<video width="640" height="360" controls>
-  <source src="https://github.com/sahilmtayade/FireBending/raw/main/CVSteam_and_fire.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ErbUVrVOzEQ?si=jn1ur1wAyHK2sBZP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nn2RxBCX5OI?si=Y-m7G7YA8IHxgcp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Currently the steam and fire parts are separate notebooks, so you will have to take the steam output and read that in before calling the draw function in the fire notebook. But make sure to run all the other calculation cells in the fire notebook with the original video! Sorry about that; finals and job searches keep me busy.
 
